@@ -13,3 +13,5 @@ https://github.com/ihsan2/arkademy-kloter3/settings
 Screenshot Demo Nomor 6
 
 ![Alt text](img/61.PNG?raw=true "Demo 6_1")
+![Alt text](img/62.PNG?raw=true "Demo 6_2")
+![Alt text](img/62.PNG?raw=true "Demo 6_3")
