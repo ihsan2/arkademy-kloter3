@@ -38,8 +38,8 @@ include '../koneksi.php';
         <div class="container">
             <div class="navbar-header">
                 
-                <a class="navbar-brand" href="index.php">
-                    <img src="../assets/img/logo.png" />
+                <a class="navbar-brand" href="../index.php">
+                    <img src="../assets/img/logo1.png" />
                 </a>
 
 
