@@ -30,7 +30,7 @@
             <div class="navbar-header">
                 
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/img/logo.png" />
+                    <img src="assets/img/logo1.png" />
                 </a>
 
 
@@ -105,6 +105,7 @@
                                             		
                                             		<?php
                     								echo "<a href='edit/edit.php?id=$s[id]' class='btn btn-warning'><i class='icon-edit'></i> EDIT</a>";
+                                                    echo " ";
                     								echo "<a href='hapus/hapus.php?id=$s[id]' class='btn btn-danger' onclick='return confirm('Apakah anda yakin mau menghapus')''><i class='icon-edit'></i> DELETE</a>";
                     								?>
                                             </td>
