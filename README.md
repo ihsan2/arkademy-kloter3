@@ -9,3 +9,7 @@
 # 3. Untuk soal nomor 5 saya menggunakan bahasa pemrograman php, code bisa di run pada browser chrome atau firefox.
 
 # 4. Untuk soal nomor 6 saya tempatkan dump data dan database pada satu folder.
+
+Screenshot Demo Nomor 6
+
+![alt text](D:\####Deasinkkn\61.png)
